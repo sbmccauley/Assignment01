@@ -88,7 +88,7 @@
 // console.log(typeof rain);
 
 //STEP 11
-// alert('Hello Zak Ruvacalba, welcome to the JavaScript class!');
+// alert('Hello Zak Ruvalcaba, welcome to the JavaScript class!');
 // alert('Hello ' + 'Sheri McCauley' + ', welcome to the JavaScript class!');
 
 
@@ -104,7 +104,7 @@
 // alert(`Hello ${fullName}, welcome to the ${course} class!`);
 
 //STEP 14
-// let fullName = 'Zak Ruvacalba';
+// let fullName = 'Zak Ruvalcaba';
 
 // let course = 'JavaScript';
 // alert(`Hello ${fullName}. \n Welcome to the ${course} class!`);
