@@ -11,8 +11,7 @@
 
 //STEP 3
 // let complexExample1 = 5 + (6*3)/9;
-// let complexExample2 = 345 - (234
-// /4) + (5*7);
+// let complexExample2 = 345 - (234/4) + (5*7);
 
 //STEP 4
 // let strFirstName;
@@ -20,7 +19,7 @@
 // let strAddress;
 // let strCity;
 // let strState;
-// let numZipCo'de;
+// let numZipCode;
 // let numYourAge;
 // let strReferralSource;
 // let strMayWeContactYou;
@@ -115,7 +114,7 @@
 // let course = 'JavaScript';
 // alert(`Hello ${fullName}. \n Welcome to the ${course} class!`);
 
-//STEP 16
+// STEP 16
 // let fullName = prompt('Please enter your name');
 
 // let course = prompt('What course will you be taking?');
